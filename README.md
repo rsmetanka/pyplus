@@ -1,3 +1,3 @@
 # pyplus
 Python course
-Upraveny soubor - druhy pokus
+Upraveny soubor - treti pokus
