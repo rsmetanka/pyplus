@@ -1,0 +1,10 @@
+vlan 700
+  name vl-700
+vlan 701
+  name vl-701
+vlan 702
+  name vl-702
+vlan 703
+  name vl-703
+vlan 704
+  name vl-704
